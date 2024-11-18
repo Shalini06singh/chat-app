@@ -7,7 +7,7 @@ This project is a real-time chat application built using Socket.IO for communica
 
 ## Installation
 
-Clone the repository: git clone https://github.com/your_username/Chat-application.git
+Clone the repository: git clone https://github.com/Shalini06singh/chat-app
 
 
 Navigate to the project directory: cd 
@@ -96,7 +96,7 @@ Contributions are welcome! Please fork the repository and submit pull requests w
 To deploy this project run
 
 ```bash
-  npm run dev
+   node index.js
 ```
 
 
